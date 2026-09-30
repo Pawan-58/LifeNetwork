@@ -1,0 +1,6 @@
+{
+  "name": "OmniHealth Network - Unified Patient Health Portal",
+  "description": "Cross-hospital connected health registry linking all hospitals with universal patient IDs, PIN and admission-based security access, and unified lifetime medical records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
